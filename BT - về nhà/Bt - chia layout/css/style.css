@@ -1,0 +1,87 @@
+.wrap {
+	max-width: 1500px;
+	height: 2500px;
+	margin: auto;
+	border: 1px solid #ddd;
+	position: relative;
+}
+.layout {
+	width: 43%;
+	height: 8%;
+	background-color: #ddd;
+	float: left;
+	margin: 90px;
+}
+.layout1 {
+	width: 43%;
+	height: 8%;
+	background-color: #ddd;
+	float: right;
+	margin: 90px;
+	margin-top: -291px;
+}
+.layout2{
+	width: 100%;
+	height: 2%;
+	background-color: red;
+	margin: auto;
+}
+.layout3{
+	width: 88%;
+	height: 13%;
+	margin: auto;
+	background-color: #ddd;
+	margin-top: 330px;
+}
+.id1{
+	width: 25%;
+	height: 100%;
+	background-color: #ddd;
+	float: left;
+	margin-top: -50px;
+}
+.id2{
+	width: 25%;
+	height: 100%;
+	background-color: #ddd;
+	float: right;
+	margin-top: -325px;
+}
+.id3{
+	width: 50%;
+	height: 100%;
+	background-color: white;
+	margin: auto;
+}
+.top1{
+	width: 44.7%;
+	height: 40%;
+	background-color: #ddd;
+	float: left;
+	margin: 21px;
+	margin-top: -50px
+}
+.top2{
+	width: 44.7%;
+	height: 40%;
+	background-color: #ddd;
+	float: right;
+	margin: 21px;
+	margin-top: -151px;
+}
+.top3{
+	width: 44.7%;
+	height: 40%;
+	background-color: #ddd;
+	margin-left: 18px;
+	float: left;
+	margin-top: 40px;
+}
+.top4{
+	width: 44.7%;
+	height: 40%;
+	background-color: #ddd;
+	margin: 20px;
+	margin-top: -10px;
+	
+}

@@ -1,0 +1,22 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+.wrap {
+	margin: auto;
+	width: 1000px;
+	height: 900px;
+	border: 1px solid black;
+	padding: 40px;
+}
+.a p {
+	margin: auto;
+	text-align: center;
+}
+.a h1 {
+	text-align: center;
+}
+.b p {
+	float: right;
+}
