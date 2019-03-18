@@ -1,0 +1,308 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+.wrap {
+	width: 100%;
+	height: 100%;
+	margin: auto;
+}
+.khungpubg {
+	width: 100%;
+	height: 60px;
+	background-color:rgba(231, 231, 231, 0.74);
+	position: relative;
+}
+.khunganh {
+	width: 120px;
+	height: 48px;
+	margin-top: 4.5px;
+	margin-left: 230px;
+	position: absolute;
+}
+.khungmenu {
+	position: absolute;
+	width: 60px;
+	height: 30px;
+	margin-left: 818px;
+	margin-top: 12.5px;
+	font-family: Myriad Pro;
+}
+.khungmenu a {
+	padding: 8px;
+	display: block;
+	text-decoration: none;
+	color: #323131;
+}
+.khungmenu a:hover {
+	color: red;
+}
+.khungmenu1 {
+	position: absolute;
+	width: 80px;
+	height: 30px;
+	margin-left: 900px;
+	margin-top: 19.1px;
+	font-family: Myriad Pro;
+}
+.khungmenu1 a {
+	padding: 2px;
+	display: block;
+	text-decoration: none;
+	color: #323131;
+}
+.khungmenu1 a:hover {
+	color: red;
+}
+.khungmenu2 {
+	position: absolute;
+	width: 60px;
+	height: 30px;
+	margin-left: 1014px;
+	margin-top: 21.3px;
+	font-family: Myriad Pro;
+}
+.khungmenu2 a {
+	display: block;
+	text-decoration: none;
+	color: #323131;
+}
+.khungmenu2 a:hover {
+	color: red;
+}
+.khungmenu3 {
+	position: absolute;
+	width: 70px;
+	height: 30px;
+	margin-left: 1106px;
+	margin-top: 21.3px;
+	font-family: Myriad Pro;
+}
+.khungmenu3 a {
+	display: block;
+	text-decoration: none;
+	color: #323131;
+}
+.khungmenu3 a:hover {
+	color: red;
+}
+.khungmenu4 {
+	position: absolute;
+	width: 130px;
+	height: 48px;
+	margin-left: 1206px;
+	margin-top: 5px;
+	font-family: Myriad Pro;
+	background-color: #07a7f4;
+}
+.khungmenu4 a {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	text-decoration: none;
+	color: white;
+}
+.kmn4 {
+	width: 100%;
+	height: 40%;
+	margin-top: 15px;
+}
+.share {
+	width: 20px;
+	height: 20px;
+	margin-left: 1340px;
+	margin-top: 20px;
+	position: absolute;
+}
+.share img {
+	width: 100%;
+	height: 100%;
+}
+.body {
+	width: 100%;
+	height: 365px;
+	margin: auto;
+	position: relative;
+}
+.body img {
+	width: 100%;
+	height: 121%;
+}
+.body1 {
+	width: 100%;
+	height: 121.5%;
+	background-color: #ffffffbd;
+	position: absolute;
+	margin-top: -447px;
+}
+.body1 img {
+	position: absolute;
+	width: 35%;
+	height: 83%;
+	margin-left: 205px;
+}
+.body2 {
+	width: 34%;
+	height: 90%;
+	margin-top: -393px;
+	position: absolute;
+	margin-left: 800px;
+}
+.body2 h1 {
+	color: #d8443a;
+	font-family: Headline;
+	text-shadow: 2px 3px 3px #292929;
+    letter-spacing: 15px;
+    font-size: 40px;
+    text-transform: uppercase;
+}
+.body2 p {
+	font-family:  League Gothic;
+	font-size: 18px;
+	color: #333;
+}
+.body3 {
+	width: 100%;
+	height: 21.5%;
+	background-color: #00000069;
+	margin-top: -82px;
+	position: absolute;
+}
+.text1 {
+	width: 13.5%;
+	height: 31%;
+	margin-left: 330px;
+	margin-top: 27px;
+	color: white;
+}
+.text1 h2 {
+	font-family: Headline;
+	margin-top: -65px;
+}
+.text1 img {
+	width: 107px;
+	height: 107px;
+	margin-left: -100px;
+	margin-top: -42px;
+}
+.text1 a {
+	text-decoration: none;
+	color: white;
+}
+.text2 img {
+	width: 135px;
+	height: 135px;
+	margin-left: 600px;
+	margin-top: -80px;
+}
+.text2 h2 {
+	margin-left: 720px;
+	margin-top: -82px;
+}
+.text2 a {
+	text-decoration: none;
+	color: white;
+}
+.text3 img {
+	width: 70px;
+	height: 70px;
+	margin-top: -80px;
+	margin-left: 1050px;
+}
+.text3 h2 {
+	margin-left: 1140px;
+	margin-top: -48px;
+	color: white;
+}
+.text3 a {
+	text-decoration: none;
+	color: white;
+}
+.khungvideos {
+	width: 100%;
+	height: 750px;
+	margin-top: 65px;
+	position: relative;
+}
+.khungvideos img {
+	width: 100%;
+	height: 100%;
+}
+.khungche {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	background-color: #00000045;
+}
+.khungh1 {
+	width: 70%;
+	height: 15%;
+	border-bottom: 3px solid #d06b00;
+	position: absolute;
+	margin-top: 50px;
+	margin-left: 230px;
+}
+.khungh1 h1 {
+	color: #d59e00;
+	font-size: 70px !important;
+    text-transform: uppercase;
+    margin-bottom: 30px !important;
+    text-align: center;
+    font-family: Headline;
+    text-shadow: 2px 3px 3px #292929;
+    letter-spacing: 15px;
+    position: relative;
+}
+.khungvideos1 {
+	width: 45%;
+	height: 52.5%;
+	position: absolute;
+	margin-top: -34%;
+	margin-left: 417px;
+}
+.khungvideos1 img {
+	width: 100%;
+	height: 100%;
+}
+.view-more a {
+    display: inline-block;
+    padding: 12px 30px;
+    background-color: #3e61e6;
+    color: #fff;
+    margin: 20px 0px;
+    border-radius: 25px;
+    font-size: 20px;
+    text-transform: uppercase;
+    position: absolute;
+    margin-top: -110px;
+    margin-left: 630px;
+}
+.Maps {
+	width: 100%;
+	height: 1050px;
+	position: relative;
+}
+.Maps img {
+	width: 100%;
+	height: 100%;
+}
+.chemap {
+	width: 100%;
+	height: 100%;
+	background-color: #000000bf;
+	position: absolute;
+}
+.a1 {
+	position: absolute;
+	margin-top: -750px;
+	margin-left: 360px;
+}
+.khungsung {
+	width: 100%;
+	height: 750px;
+}
+.khungsung img {
+	width: 100%;
+	height: 100%;
+}
