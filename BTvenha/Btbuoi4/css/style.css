@@ -1,0 +1,170 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+.wrap {
+	width: 100%;
+	height: 2400px;
+	margin: auto;
+}
+.baitap1 {
+	width: 50%;
+	height: 200px;
+	border: 1px solid black;
+	margin: auto;
+	margin-top: 22px;
+}
+.baitap1 h1 {
+	text-align: center;
+}
+.bt1 {
+	width: 150px;
+	height: 60px;
+	margin: auto;
+	margin-top: 40px;
+	border-radius: 10px;
+}
+.bt1 button {
+	width: 100%;
+	height: 100%;
+	border-radius: 10px;
+	background-color: #337ab7;
+	color: white;
+}
+.bt1 button:hover {
+	background-color: green;
+	color: white;
+}
+.baitap2 {
+	width: 100%;
+	height: 745px;
+	border: 1px solid black;
+	margin-top: 150px;
+	position: relative;
+}
+.baitap2 h1 {
+	text-align: center;
+}
+.bt2 {
+	width: 33.33333%;
+	height: 31.7%;
+	border: 1px solid #ddd;
+	float: left;
+}
+.bt2 img {
+	width: 100%;
+	height: 100%;
+	padding: 5px;
+	transition: all 0.5s linear;
+}
+.bt2:hover img {
+	transform: scale(1.4);
+	border: 1px solid #ddd;
+	padding: 5px;
+}
+.baitap3 {
+	width: 80%;
+	height: 500px;
+	margin: auto;
+	border: 1px solid black;
+	margin-top: 80px;
+
+}
+.baitap3 h1 {
+	text-align: center;
+}
+.khungdap {
+	width: 65%;
+	height: 70%;
+	margin: auto;
+	margin-top: 50px;
+	animation: khungdap 1.5s ease infinite;
+}
+.khungdap img {
+	width: 100%;
+	height: 100%;
+}
+@keyframes khungdap {
+	10% {
+		transform: scale(1.3);
+	}
+	20% {
+		transform: scale(1.4);
+	}
+	30% {
+		transform: scale(1.3);
+	}
+	40% {
+		transform: scale(1.4);
+	}
+	50% {
+		transform: scale(1.3);
+	}
+	60% {
+		transform: scale(1.4);
+	}
+	70% {
+		transform: scale(1.4);
+	}
+	80% {
+		transform: scale(1.3);
+	}
+	90% {
+		transform: scale(1.4);
+	}
+	100% {
+		transform: scale(1.3);
+	}
+}
+
+.baitap4 {
+	margin: auto;
+	margin-top: 120px;
+	width: 60%;
+	height: 500px;
+	border: 1px solid black;
+}
+.baitap4 h1 {
+	text-align: center;
+}
+.khungsline {
+	width: 25%;
+	height: 10%;
+	margin: auto;
+	margin-top:100px;
+}
+.khungsline h2 {
+	font-size: 35.5px;
+	animation: nhay 10s ease infinite;
+}
+@keyframes nhay {
+    0%  {background-color: green; color: #FFFFFF;}
+}
+
+.khungsline1 {
+	width: 42%;
+	height: 10%;
+	margin: auto;
+	margin-top: 15px;
+}
+.khungsline1 h2 {
+	font-size: 35.5px;
+	animation: nhay1 10s ease infinite;
+}
+@keyframes nhay1 {
+    50%  {background-color: green; color: #FFFFFF;}
+}
+.khungsline2 {
+	width: 27.5%;
+	height: 10%;
+	margin: auto;
+	margin-top: 15px;
+}
+.khungsline2 h2 {
+	font-size: 35.5px;
+	animation: nhay2 10s ease infinite;
+}
+@keyframes nhay2 {
+    100%  {background-color: green; color: #FFFFFF;}
+}

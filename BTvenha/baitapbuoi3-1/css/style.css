@@ -1,0 +1,49 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	background-color: #d7d4d4;
+}
+.wrap {
+	width: 80%;
+	height: 1000px;
+	margin: auto;
+	background-color: white;
+	margin-top: 80px;
+	background-color: #d7d4d4;
+}
+.khung1 {
+	width: 66%;
+	height: 100%;
+	background-color: white;
+	float: left;
+	font-family: "Roboto", sans-serif;
+}
+.khung2 {
+	width: 31%;
+	height: 25%;
+	background-color: white;
+	float: right;
+	font-family: "Roboto", sans-serif;
+}
+.khunggt {
+	width: 95%;
+	height: 4%;
+	border-bottom: 4px solid #2e3236;
+	margin: auto;
+	background-color: white;
+	margin-top: 30px;
+
+}
+.khunghp {
+	width: 95%;
+	height: 16.5%;
+	border-bottom: 4px solid #2e3236;
+	margin: auto;
+	background-color: white;
+	margin-top: 30px;
+
+}
+.khunggt ol li {
+	list-style-type: decimal;
+}
