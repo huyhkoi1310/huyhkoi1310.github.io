@@ -1,0 +1,117 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+.wrap {
+	width: 1500px;
+	height: 2000px;
+	margin: auto;
+}
+.wrap h1 {
+	text-align: center;
+	margin-top: 10px;
+}
+.baitap1 {
+	width: 60%;
+	height: 450px;
+	margin: auto;
+	margin-top: 20px;
+}
+.khung1 {
+	width: 60%;
+	height: 400px;
+	float: left;
+	background-color: red;
+}
+.khung2 {
+	width: 40%;
+	height: 400px;
+	float: right;
+}
+.khung2-1 {
+	width: 100%;
+	height: 200px;
+	background-color: green;
+}
+.khung2-2 {
+	width: 100%;
+	height: 200px;
+	background-color: blue;
+}
+.baitap2 {
+	width: 60%;
+	height: 450px;
+	margin: auto;
+	margin-top: 100px;
+}
+.khung21 {
+	width: 530px;
+	height: 400px;
+	float: left;
+	background-color: red;
+}
+.khung22 {
+	width: 350px;
+	height: 400px;
+	float: right;
+}
+.khung22-1 {
+	width: 100%;
+	height: 200px;
+	background-color: green;
+}
+.khung22-2 {
+	width: 100%;
+	height: 200px;
+	background-color: blue;
+}
+.baitap3 {
+	width: 900px;
+	height: 450px;
+	margin: auto;
+	margin-top: 100px;
+}
+.khung3-1 {
+	width: 300px;
+	height: 400px;
+	float: left;
+	background-color: red;
+}
+.khung3-2 {
+	width: 300px;
+	height: 400px;
+	float: left;
+	background-color: green;
+}
+.khung3-3 {
+	width: 300px;
+	height: 400px;
+	float: left;
+	background-color: blue;
+}
+.baitap4 {
+	width: 900px;
+	height: 450px;
+	margin: auto;
+	margin-top: 100px;
+}
+.khung4-1 {
+	width: 290px;
+	height: 400px;
+	float: left;
+	background-color: red;
+}
+.khung4-2 {
+	width: 280px;
+	height: 400px;
+	margin: auto;
+	background-color: green;
+}
+.khung4-3 {
+	width: 290px;
+	height: 400px;
+	float: right;
+	background-color: blue;
+	margin-top: -400px;
+}

@@ -28,13 +28,13 @@
 .bt1 button {
 	width: 100%;
 	height: 100%;
-	border-radius: 10px;
 	background-color: #337ab7;
 	color: white;
 }
 .bt1 button:hover {
 	background-color: green;
 	color: white;
+	border-radius: 10px;
 }
 .baitap2 {
 	width: 100%;
@@ -86,23 +86,26 @@
 	height: 100%;
 }
 @keyframes khungdap {
-	10% {
+	0% {
 		transform: scale(1.3);
+	}
+	10% {
+		transform: scale(1.4);
 	}
 	20% {
-		transform: scale(1.4);
+		transform: scale(1.3);
 	}
 	30% {
-		transform: scale(1.3);
+		transform: scale(1.4);
 	}
 	40% {
-		transform: scale(1.4);
-	}
-	50% {
 		transform: scale(1.3);
 	}
-	60% {
+	50% {
 		transform: scale(1.4);
+	}
+	60% {
+		transform: scale(1.3);
 	}
 	70% {
 		transform: scale(1.4);
@@ -121,50 +124,31 @@
 .baitap4 {
 	margin: auto;
 	margin-top: 120px;
-	width: 60%;
+	width: 100%;
 	height: 500px;
 	border: 1px solid black;
 }
 .baitap4 h1 {
 	text-align: center;
 }
-.khungsline {
-	width: 25%;
-	height: 10%;
-	margin: auto;
-	margin-top:100px;
+@keyframes fade {
+	0% {
+		transform: translate(600px, 0);
+		opacity: 1;
+	}
+	50% {
+		transform: translate(300px, 0);
+		opacity: 1;
+	}
+	100% {
+		transform: translate(0, 0);
+		opacity: 0;
+	}
 }
-.khungsline h2 {
-	font-size: 35.5px;
-	animation: nhay 10s ease infinite;
-}
-@keyframes nhay {
-    0%  {background-color: green; color: #FFFFFF;}
-}
-
-.khungsline1 {
-	width: 42%;
-	height: 10%;
-	margin: auto;
-	margin-top: 15px;
-}
-.khungsline1 h2 {
-	font-size: 35.5px;
-	animation: nhay1 10s ease infinite;
-}
-@keyframes nhay1 {
-    50%  {background-color: green; color: #FFFFFF;}
-}
-.khungsline2 {
-	width: 27.5%;
-	height: 10%;
-	margin: auto;
-	margin-top: 15px;
-}
-.khungsline2 h2 {
-	font-size: 35.5px;
-	animation: nhay2 10s ease infinite;
-}
-@keyframes nhay2 {
-    100%  {background-color: green; color: #FFFFFF;}
+.icon {
+	font-size: 20px;
+	font-weight: bold;
+	color: #8E0B00;
+	animation: fade 8s ease infinite;
+	margin-top: 200px;
 }
