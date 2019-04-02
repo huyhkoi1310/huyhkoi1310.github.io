@@ -28,13 +28,15 @@
 .bt1 button {
 	width: 100%;
 	height: 100%;
-	background-color: #337ab7;
+	background-color: #4083b2;
 	color: white;
+	transition: all 0.7s ease;
 }
 .bt1 button:hover {
 	background-color: green;
 	color: white;
-	border-radius: 10px;
+	border-radius: 40px;
+	transition: all 0.7s ease;
 }
 .baitap2 {
 	width: 100%;
@@ -134,7 +136,7 @@
 @keyframes fade {
 	0% {
 		transform: translate(600px, 0);
-		opacity: 1;
+		opacity: 0;
 	}
 	50% {
 		transform: translate(300px, 0);
@@ -151,4 +153,31 @@
 	color: #8E0B00;
 	animation: fade 8s ease infinite;
 	margin-top: 200px;
+}
+
+.baitaptest {
+	width: 100%;
+	height: 800px;
+	border: 1px solid black;
+	margin-top: 150px;
+	margin-bottom: 20px;
+	display: grid;
+	grid-gap: 20px;
+	grid-template-columns: auto auto auto;
+}
+.bt {
+	width: 100%;
+	border: 1px solid #ddd;
+	float: left;
+}
+.bt img {
+	width: 100%;
+	height: 100%;
+	padding: 5px;
+	transition: all 0.5s linear;
+}
+.bt:hover img {
+	transform: scale(1.4);
+	border: 1px solid #ddd;
+	padding: 5px;
 }

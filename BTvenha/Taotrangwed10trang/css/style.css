@@ -1,0 +1,367 @@
+* {
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+.wrapper {
+	width: 800px;
+	height: 6600px;
+	margin: auto;
+	background-color: #ddd;
+	margin-bottom: 20px;
+}
+.wrapper h1 {
+ 	text-align: center;
+}
+.wrapper h2 {
+	color: #00796b;
+}
+.wrapper h2 a {
+	text-decoration: none;
+	color: #00796b;
+}
+.wrapper button a{
+	text-decoration: none;
+}
+.wrapper button:hover a{
+	background-color: black;
+	color: white;
+}
+.wrapper h2 a:hover {
+	color: red;
+}
+.khungpet1 {
+	width: 90%;
+	height: 600px;
+	margin: auto;
+	margin-top: 50px;
+}
+.pet1 {
+	width: 100%;
+	height: 480px;
+	margin: auto;
+	margin-top: 10px;
+
+}
+.pet1 img {
+	width: 100%;
+	height: 100%;
+}
+.pet1-xt {
+	width: 80px;
+	height: 35px;
+	margin: auto;
+	margin-top: 10px;
+}
+.pet1-xt button {
+	width: 100%;
+	height: 100%;
+}
+.pet1-xt button:hover {
+	background-color: black;
+	color: white; 
+}
+
+
+.khungpet2 {
+	width: 90%;
+	height: 600px;
+	margin: auto;
+	margin-top: 50px;
+}
+.pet2 {
+	width: 100%;
+	height: 480px;
+	margin: auto;
+	margin-top: 10px;
+
+}
+.pet2 img {
+	width: 100%;
+	height: 100%;
+}
+.pet2-xt {
+	width: 80px;
+	height: 35px;
+	margin: auto;
+	margin-top: 10px;
+}
+.pet2-xt button {
+	width: 100%;
+	height: 100%;
+}
+.pet2-xt button:hover {
+	background-color: black;
+	color: white; 
+}
+
+
+.khungpet3 {
+	width: 90%;
+	height: 600px;
+	margin: auto;
+	margin-top: 50px;
+}
+.pet3 {
+	width: 100%;
+	height: 480px;
+	margin: auto;
+	margin-top: 10px;
+
+}
+.pet3 img {
+	width: 100%;
+	height: 100%;
+}
+.pet3-xt {
+	width: 80px;
+	height: 35px;
+	margin: auto;
+	margin-top: 10px;
+}
+.pet3-xt button {
+	width: 100%;
+	height: 100%;
+}
+.pet3-xt button:hover {
+	background-color: black;
+	color: white; 
+}
+
+
+
+.khungpet4 {
+	width: 90%;
+	height: 600px;
+	margin: auto;
+	margin-top: 50px;
+}
+.pet4 {
+	width: 100%;
+	height: 480px;
+	margin: auto;
+	margin-top: 10px;
+
+}
+.pet4 img {
+	width: 100%;
+	height: 100%;
+}
+.pet4-xt {
+	width: 80px;
+	height: 35px;
+	margin: auto;
+	margin-top: 10px;
+}
+.pet4-xt button {
+	width: 100%;
+	height: 100%;
+}
+.pet4-xt button:hover {
+	background-color: black;
+	color: white; 
+}
+
+
+.khungpet5 {
+	width: 90%;
+	height: 600px;
+	margin: auto;
+	margin-top: 50px;
+}
+.pet5 {
+	width: 100%;
+	height: 480px;
+	margin: auto;
+	margin-top: 10px;
+
+}
+.pet5 img {
+	width: 100%;
+	height: 100%;
+}
+.pet5-xt {
+	width: 80px;
+	height: 35px;
+	margin: auto;
+	margin-top: 10px;
+}
+.pet5-xt button {
+	width: 100%;
+	height: 100%;
+}
+.pet5-xt button:hover {
+	background-color: black;
+	color: white; 
+}
+
+
+
+
+.khungpet6 {
+	width: 90%;
+	height: 600px;
+	margin: auto;
+	margin-top: 50px;
+}
+.pet6 {
+	width: 100%;
+	height: 480px;
+	margin: auto;
+	margin-top: 10px;
+
+}
+.pet6 img {
+	width: 100%;
+	height: 100%;
+}
+.pet6-xt {
+	width: 80px;
+	height: 35px;
+	margin: auto;
+	margin-top: 10px;
+}
+.pet6-xt button {
+	width: 100%;
+	height: 100%;
+}
+.pet6-xt button:hover {
+	background-color: black;
+	color: white; 
+}
+
+
+
+.khungpet7 {
+	width: 90%;
+	height: 600px;
+	margin: auto;
+	margin-top: 50px;
+}
+.pet7{
+	width: 100%;
+	height: 480px;
+	margin: auto;
+	margin-top: 10px;
+
+}
+.pet7 img {
+	width: 100%;
+	height: 100%;
+}
+.pet7-xt {
+	width: 80px;
+	height: 35px;
+	margin: auto;
+	margin-top: 10px;
+}
+.pet7-xt button {
+	width: 100%;
+	height: 100%;
+}
+.pet7-xt button:hover {
+	background-color: black;
+	color: white; 
+}
+
+
+
+
+.khungpet8 {
+	width: 90%;
+	height: 600px;
+	margin: auto;
+	margin-top: 50px;
+}
+.pet8 {
+	width: 100%;
+	height: 480px;
+	margin: auto;
+	margin-top: 10px;
+
+}
+.pet8 img {
+	width: 100%;
+	height: 100%;
+}
+.pet8-xt {
+	width: 80px;
+	height: 35px;
+	margin: auto;
+	margin-top: 10px;
+}
+.pet8-xt button {
+	width: 100%;
+	height: 100%;
+}
+.pet8-xt button:hover {
+	background-color: black;
+	color: white; 
+}
+
+
+
+.khungpet9 {
+	width: 90%;
+	height: 600px;
+	margin: auto;
+	margin-top: 50px;
+}
+.pet9 {
+	width: 100%;
+	height: 480px;
+	margin: auto;
+	margin-top: 10px;
+
+}
+.pet9 img {
+	width: 100%;
+	height: 100%;
+}
+.pet9-xt {
+	width: 80px;
+	height: 35px;
+	margin: auto;
+	margin-top: 10px;
+}
+.pet9-xt button {
+	width: 100%;
+	height: 100%;
+}
+.pet9-xt button:hover {
+	background-color: black;
+	color: white; 
+}
+
+
+.khungpet10 {
+	width: 90%;
+	height: 600px;
+	margin: auto;
+	margin-top: 50px;
+}
+.pet10 {
+	width: 100%;
+	height: 480px;
+	margin: auto;
+	margin-top: 10px;
+
+}
+.pet10 img {
+	width: 100%;
+	height: 100%;
+}
+.pet10-xt {
+	width: 80px;
+	height: 35px;
+	margin: auto;
+	margin-top: 10px;
+}
+.pet10-xt button {
+	width: 100%;
+	height: 100%;
+}
+.pet10-xt button:hover {
+	background-color: black;
+	color: white; 
+}
