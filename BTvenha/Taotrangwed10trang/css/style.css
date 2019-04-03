@@ -41,11 +41,15 @@
 	height: 480px;
 	margin: auto;
 	margin-top: 10px;
-
 }
 .pet1 img {
 	width: 100%;
 	height: 100%;
+	opacity: 1;
+	transition: opacity 1s linear;
+}
+.pet1:hover img {
+	opacity: 0.5;
 }
 .pet1-xt {
 	width: 80px;
@@ -79,6 +83,11 @@
 .pet2 img {
 	width: 100%;
 	height: 100%;
+	opacity: 1;
+	transition: opacity 1s linear;
+}
+.pet2:hover img {
+	opacity: 0.5;
 }
 .pet2-xt {
 	width: 80px;
@@ -112,6 +121,11 @@
 .pet3 img {
 	width: 100%;
 	height: 100%;
+	opacity: 1;
+	transition: opacity 1s linear;
+}
+.pet3:hover img {
+	opacity: 0.5;
 }
 .pet3-xt {
 	width: 80px;
@@ -146,6 +160,11 @@
 .pet4 img {
 	width: 100%;
 	height: 100%;
+	opacity: 1;
+	transition: opacity 1s linear;
+}
+.pet4:hover img {
+	opacity: 0.5;
 }
 .pet4-xt {
 	width: 80px;
@@ -179,6 +198,11 @@
 .pet5 img {
 	width: 100%;
 	height: 100%;
+	opacity: 1;
+	transition: opacity 1s linear;
+}
+.pet5:hover img {
+	opacity: 0.5;
 }
 .pet5-xt {
 	width: 80px;
@@ -214,6 +238,11 @@
 .pet6 img {
 	width: 100%;
 	height: 100%;
+	opacity: 1;
+	transition: opacity 1s linear;
+}
+.pet6:hover img {
+	opacity: 0.5;
 }
 .pet6-xt {
 	width: 80px;
@@ -248,6 +277,11 @@
 .pet7 img {
 	width: 100%;
 	height: 100%;
+	opacity: 1;
+	transition: opacity 1s linear;
+}
+.pet7:hover img {
+	opacity: 0.5;
 }
 .pet7-xt {
 	width: 80px;
@@ -283,6 +317,11 @@
 .pet8 img {
 	width: 100%;
 	height: 100%;
+	opacity: 1;
+	transition: opacity 1s linear;
+}
+.pet8:hover img {
+	opacity: 0.5;
 }
 .pet8-xt {
 	width: 80px;
@@ -317,6 +356,11 @@
 .pet9 img {
 	width: 100%;
 	height: 100%;
+	opacity: 1;
+	transition: opacity 1s linear;
+}
+.pet9:hover img {
+	opacity: 0.5;
 }
 .pet9-xt {
 	width: 80px;
@@ -350,6 +394,11 @@
 .pet10 img {
 	width: 100%;
 	height: 100%;
+	opacity: 1;
+	transition: opacity 1s linear;
+}
+.pet10:hover img {
+	opacity: 0.5;
 }
 .pet10-xt {
 	width: 80px;
