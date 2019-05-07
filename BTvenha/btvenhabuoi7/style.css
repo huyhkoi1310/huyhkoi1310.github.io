@@ -1,0 +1,22 @@
+.wrap {
+	width: 1000px;
+	height: 2000px;
+	margin: auto;
+}
+.bt1 {
+	width: 700px;
+	height: 200px;
+	border: 1px solid #ddd;
+	margin: auto;
+	margin-top: 80px;
+}
+.bt1 h1 {
+	text-align: center;
+}
+.bt2 {
+	width: 700px;
+	height: 200px;
+	border: 1px solid #ddd;
+	margin: auto;
+	margin-top: 80px;
+}
