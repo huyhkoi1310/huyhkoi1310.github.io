@@ -1,0 +1,74 @@
+* {
+	margin: 0px;
+	padding: 0px
+	box-sizing: border-box;
+}
+.wrap {
+	width: 1000px;
+	height: 2000px;
+	margin: auto;
+}
+.Form {
+	margin-top: 50px;
+}
+.Form h1 {
+	text-align: center;
+	font-size: 40px;
+}
+.Form p {
+	text-align: center;
+	font-size: 20px;
+}
+.Form-Login {
+	width: 42%;
+	height: 500px;
+	border: 1px solid red;
+	margin: auto;
+	margin-top: 20px;
+}
+.ho  {
+	width: 45%;
+	height: 6%;
+	float: left;
+	margin-left: 10px;
+	margin-top: 18.5px;
+	border-radius: 5px;
+	border: 1px solid #ddd;
+}
+.ten  {
+	width: 45%;
+	height: 6%;
+	float: right;
+	margin-right: 10px;
+	border-radius: 5px;
+	border: 1px solid #ddd;
+}
+.email {
+	width: 94%;
+	height: 6%;
+	float: left;
+	margin-top: 15px;
+	margin-left: 11px;
+	border-radius: 5px;
+	border: 1px solid #ddd;
+}
+.password {
+	width: 94%;
+	height: 6%;
+	float: left;
+	margin-top: 15px;
+	margin-left: 11px;
+	border-radius: 5px;
+	border: 1px solid #ddd;
+}
+.a {
+	margin-top: 100px;
+	margin-left: 10px;
+}
+.a p {
+	font-size: 20px;
+}
+select {
+	margin-top: 15px;
+	margin-left: 10px;
+}
