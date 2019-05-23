@@ -28,7 +28,7 @@ iframe {
 }
 .quest{
     width: 50%;
-    height: auto;
+    height: 100px;
     position: absolute;
     font-size: 20px;
     margin: 0 auto;
@@ -41,7 +41,7 @@ iframe {
 .quest button {
     width: 100px;
     height: 35px;
-    margin-top: 10px;
+    margin-top: 15px;
     border-radius: 10px;
 }
 .request{
@@ -49,7 +49,7 @@ iframe {
     height: 70px;
     text-align: left;
     margin: 5px 5px ;
-    background-color: #0000ff69;
+    background-color: #0000ffc2;
     color: white;
     font-size: 20px;
     border:none;
@@ -68,6 +68,10 @@ button:focus {outline:0;}
 .re {
 	width: 40px;
 	height: 40px;
-	background-color: #ffffff66;
+	background-color: #ffffffcc;
 	position: absolute;
+    cursor: pointer; 
+}
+.re img {
+    cursor: pointer;    
 }

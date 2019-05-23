@@ -1,6 +1,6 @@
 var arr=[
 	{
-		Quest : 'Trong các tướng sau tướng nào không phải là khắc tinh của Yasuo',
+		Quest : 'Trong các tướng sau tướng nào không phải là khắc tinh của Yasuo ?',
 		A : 'Reven',
 		B : 'Jax',
 		C : 'Jinx',
@@ -8,7 +8,7 @@ var arr=[
 		tr : 'Jinx'
 	},
 	{
-		Quest : 'Trong các tướng sau tướng có thể dồn AP(Phép) bằng kĩ năng là tướng nào',
+		Quest : 'Trong các tướng sau tướng có thể dồn AP(Phép) bằng kĩ năng là tướng nào ?',
 		A : 'Zoe',
 		B : 'Temmo',
 		C : 'Fizz',
@@ -16,7 +16,7 @@ var arr=[
 		tr : 'Veigar'
 	},
 	{
-		Quest : 'Trong các tướng sau tướng nào không phải pháp sư',
+		Quest : 'Trong các tướng sau tướng nào không phải pháp sư ?',
 		A : 'Ahri',
 		B : 'Amumu',
 		C : 'Aurolion Sol',
@@ -24,7 +24,7 @@ var arr=[
 		tr : 'Yasuo'
 	},
 	{
-		Quest : 'Giữa Zed và Yasuo ai mạnh hơn',
+		Quest : 'Giữa Zed và Yasuo ai mạnh hơn ?',
 		A : 'Zed',
 		B : 'Yasuo',
 		C : 'Không ai',
@@ -32,7 +32,7 @@ var arr=[
 		tr : 'Tuỳ thằng đánh'
 	},
 	{
-		Quest : 'Khi chơi LOL Star bạn sợ gì nhất',
+		Quest : 'Khi chơi LOL Star bạn sợ gì nhất ?',
 		A : 'Yasuo',
 		B : 'Zed',
 		C : 'Đội Bạn',
