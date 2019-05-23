@@ -1,4 +1,42 @@
-
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: black;
+}
+body {
+    width: 100vw;
+    height: 100vh;
+    margin:0px;
+    overflow: hidden;
+    background-color: black;
+}
+iframe {
+    width: 100px;
+    height: 40px;
+    margin-left: 740px;
+}
+.a {
+  background: black;
+}
+.container {
+  max-width: 100%;
+  height: auto;
+  margin: auto;
+  position: relative;
+  background: black;
+}
+.container img {
+  width: 100%;
+  height: auto;
+  text-align: center;
+}
+h1 {
+  text-align: center;
+  margin: auto;
+  font-size: 30px;
+  color: white;
+}
 .firework {
   position: absolute;
   top: 105%;

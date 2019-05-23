@@ -75,12 +75,18 @@ select {
 	margin-top: 25px;
 	margin-left: 10px;
 	background-color: white;
+	width: auto;
+	height: 25px;
 }
 .nam {
 	margin-left: 10px;
+	width: 15px;
+	height: 15px;
 }
 .nu {
 	margin-left: 5px;
+	width: 15px;
+	height: 15px;
 }
 .dangnhap {
 	margin-left: 10px;

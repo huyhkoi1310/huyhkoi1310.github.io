@@ -1,37 +1,42 @@
-
-*{
-    box-sizing: border-box;
-    margin:0px;
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
 }
-body{
-    background-image: url(http://file.vforum.vn/hinh/2018/03/hinh-anh-hinh-nen-lol-lien-minh-huyen-thoai-dep-nhat-7.jpg);
-    background-repeat:  no-repeat;
+body {
+	background-repeat:  no-repeat;
     background-size: cover;
     width: 100vw;
     height: 100vh;
     margin:0px;
-   
 }
-body img {
-    max-width: 100%;
-    height: auto;
-    margin: auto;
+iframe {
+    width: 100px;
+    height: 40px;
+    margin-left: 740px;
 }
-.wrap{
-    width: 500px;
-    margin:320px auto;
-    top:0px;
-    left:550px;
+.container {
+	max-width: 100%;
+	height: auto;
+	margin: auto;
+	position: relative;
+}
+.container img {
+	width: 100%;
+	height: auto;
+	text-align: center;
 }
 .quest{
-    width: 100%;
+    width: 50%;
     height: auto;
+    position: absolute;
     font-size: 20px;
     margin: 0 auto;
     border: 3px solid rgba(255, 255, 255, 0.568);
     text-align: center;
     background-color: #ff000066;
     color: white;
+    margin-top: -50%;
 }
 .quest button {
     width: 100px;
@@ -41,7 +46,7 @@ body img {
 }
 .request{
     width: 235px;
-    height: 50px;
+    height: 70px;
     text-align: left;
     margin: 5px 5px ;
     background-color: #0000ff69;
@@ -54,12 +59,15 @@ body img {
     background-color: #ff3300;
 }
 button:focus {outline:0;}
-.re img{
-    width: 30px;
-    height: 30px;
+.dapan {
+	margin-left: 23%;
+	width: auto;
+	height: 40%;
+	margin-top: 30px;
 }
-iframe {
-    width: 200px;
-    height: 50px;
-    float: right;
+.re {
+	width: 40px;
+	height: 40px;
+	background-color: #ffffff66;
+	position: absolute;
 }
